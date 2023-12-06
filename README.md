@@ -1,6 +1,6 @@
 # Starter Tech Profile for Sylvia Martin
 
-## Main Programming languages
+## ⚡Main Programming languages 
 - Java
 - Kotlin
 - HTML
@@ -8,18 +8,18 @@
 - JavaScript
 - SQL
 
-## Languages
+## ⚡Languages
 - English
 - French
 - Spanish
 - Irish
 
-## Skills
+## ⚡Skills
 - Excellent teamwork skills
 - Outstanding written and verbal communication skills
 - Fantastic problem solving skills
 
-## Hobbies
+## ⚡Hobbies
 - Programming
 - Reading
 - Chess
