@@ -6,6 +6,8 @@
 - HTML
 - CSS
 - JavaScript
+- Node.js
+- Express
 - SQL
 
 ## ⚡Languages
@@ -14,17 +16,15 @@
 - Spanish
 - Irish
 
-## ⚡Skills
+## ⚡Soft Skills
 - Excellent teamwork skills
 - Outstanding written and verbal communication skills
 - Fantastic problem solving skills
 
-## ⚡Hobbies
-- Programming
+## ⚡Hobbie
 - Reading
 - Chess
-- Pool
-- Travelling
+- Fashion
 
 
 
