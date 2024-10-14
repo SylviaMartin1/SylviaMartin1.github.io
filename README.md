@@ -21,7 +21,7 @@
 - Outstanding written and verbal communication skills
 - Fantastic problem solving skills
 
-## ⚡Hobbie
+## ⚡Hobbies
 - Reading
 - Chess
 - Fashion
