@@ -9,6 +9,7 @@
 - Node.js
 - Express
 - SQL
+- Craft CMS
 
 ## ⚡Languages
 - English
